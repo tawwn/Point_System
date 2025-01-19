@@ -1,0 +1,97 @@
+.profile-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f8f9fa;
+}
+
+.header {
+    background: linear-gradient(135deg, #4a90e2, #5bb0f4);
+    color: white;
+    padding: 20px 0;
+    position: relative;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin: auto;
+}
+
+.header-content {
+
+    position: relative;
+    top: -10px;
+}
+
+.edit-link {
+    color: #d1eaff;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.points {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.points-description {
+    font-size: 14px;
+    color: #cbe5ff;
+}
+
+.actions {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.action-button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.reward {
+    background: #ffcc00;
+}
+
+.earn {
+    background: #4a90e2;
+}
+
+.links {
+    text-align: left;
+    margin: 20px;
+    padding: 0 10px;
+}
+
+.link-item {
+    font-size: 16px;
+    margin: 10px 0;
+    cursor: pointer;
+    color: #4a90e2;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.social-media {
+    margin: 20px 0;
+}
+
+.icon {
+    color: #4a90e2;
+    margin: 0 10px;
+    font-size: 20px;
+}
+
